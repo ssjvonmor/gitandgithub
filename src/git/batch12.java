@@ -7,6 +7,7 @@ public class batch12 {
 
 		
 		System.out.println("worddddddd");
+		System.out.println("worddddddd");
 	}
 
 }
